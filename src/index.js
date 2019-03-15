@@ -19,9 +19,8 @@ class App extends React.Component {
     console.log('it updated')
   }
 
-  //have to define render method or give it logic
-  // and conditions
-  render() {
+  // function with logic on rendering content = helper method
+  renderContent() {
     if (this.state.errorMessage && !this.state.lat) {
       return <div> Error: {this.state.errorMessage}</div>
     }
@@ -29,6 +28,16 @@ class App extends React.Component {
       return <SeasonDisplay lat={this.state.lat}/>
     }
     return <Spinner message="Please accept location request"/>
+  }
+
+  //have to define render method or give it logic
+  // and conditions
+  render() {
+    return (
+      <div className='border red'>
+        {this.renderContent()}
+      </div>
+    )
   }
 }
 
