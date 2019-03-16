@@ -7,7 +7,7 @@ class App extends React.Component {
   // initializing this.state
   state = { lat: null, errorMessage: ''}
 
-  // lifecycle methods
+  // lifecycle method
   componentDidMount () {
     window.navigator.geolocation.getCurrentPosition(
       position => this.setState({lat: position.coords.latitude}),
