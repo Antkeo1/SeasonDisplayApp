@@ -1,13 +1,13 @@
 {
   "main.css": "/SeasonDisplayApp/static/css/main.19edd7bd.chunk.css",
-  "main.js": "/SeasonDisplayApp/static/js/main.7f00e697.chunk.js",
-  "main.js.map": "/SeasonDisplayApp/static/js/main.7f00e697.chunk.js.map",
+  "main.js": "/SeasonDisplayApp/static/js/main.57bbd19b.chunk.js",
+  "main.js.map": "/SeasonDisplayApp/static/js/main.57bbd19b.chunk.js.map",
   "runtime~main.js": "/SeasonDisplayApp/static/js/runtime~main.dd834ddc.js",
   "runtime~main.js.map": "/SeasonDisplayApp/static/js/runtime~main.dd834ddc.js.map",
   "static/js/2.49e8ed93.chunk.js": "/SeasonDisplayApp/static/js/2.49e8ed93.chunk.js",
   "static/js/2.49e8ed93.chunk.js.map": "/SeasonDisplayApp/static/js/2.49e8ed93.chunk.js.map",
   "index.html": "/SeasonDisplayApp/index.html",
-  "precache-manifest.d6e474a175cef54be92573ae75f0d706.js": "/SeasonDisplayApp/precache-manifest.d6e474a175cef54be92573ae75f0d706.js",
+  "precache-manifest.fa49c017efd6c3073240023ae533f142.js": "/SeasonDisplayApp/precache-manifest.fa49c017efd6c3073240023ae533f142.js",
   "service-worker.js": "/SeasonDisplayApp/service-worker.js",
   "static/css/main.19edd7bd.chunk.css.map": "/SeasonDisplayApp/static/css/main.19edd7bd.chunk.css.map"
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/SeasonDisplayApp/precache-manifest.d6e474a175cef54be92573ae75f0d706.js"
+  "/SeasonDisplayApp/precache-manifest.fa49c017efd6c3073240023ae533f142.js"
 );
 
 workbox.clientsClaim();
